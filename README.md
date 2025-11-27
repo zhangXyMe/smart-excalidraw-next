@@ -6,7 +6,14 @@
 
 https://smart-draw.aizhi.site
 
-🚀🚀🚀新版本github地址：https://github.com/liujuntao123/smart-draw
+🚀🚀🚀新版本github地址：
+
+https://github.com/liujuntao123/smart-draw
+
+
+一图介绍
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_2drs882drs882drs" src="https://github.com/user-attachments/assets/42d7a2ec-b56b-420c-becb-c598179d4541" />
 
 
 
